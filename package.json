@@ -1,0 +1,24 @@
+{
+  "name": "stylelint-csstree-validator-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx stylelint test.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkrnl/stylelint-csstree-validator-bug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkrnl/stylelint-csstree-validator-bug/issues"
+  },
+  "homepage": "https://github.com/dkrnl/stylelint-csstree-validator-bug#readme",
+  "dependencies": {
+    "css-tree": "^2.2.0",
+    "stylelint": "^14.10.0",
+    "stylelint-csstree-validator": "^2.0.0"
+  }
+}
